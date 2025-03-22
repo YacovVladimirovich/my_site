@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+}
+
+.wrapper-logo{
+	text-align: center;
+}
+
+
+.text{
+	position: absolute;
+	top: 250px;
+	left: 1240px;
+}
+
+body{
+	background-color: rgb(193, 224, 21);
+}
+
+.container{
+	width: 900px;
+	margin: 0 auto;
+	height: 100vh;
+}
+
+
+.header{
+		background-color: #ffffff;
+}
+
+.main{
+	background-color: #000dff;
+}
+
+.footer{
+	background-color: #ff0000;
+}
